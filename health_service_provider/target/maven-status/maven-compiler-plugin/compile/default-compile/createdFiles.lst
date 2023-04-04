@@ -1,0 +1,17 @@
+com\xxx\service\impl\SetmealServiceImpl.class
+com\xxx\dao\CheckGroupDao.class
+com\xxx\service\impl\UserServiceImpl.class
+com\xxx\service\impl\ReportServiceImpl.class
+com\xxx\dao\OrderSettingDao.class
+com\xxx\dao\OrderDao.class
+com\xxx\dao\PermissionDao.class
+com\xxx\service\impl\OrderServiceImpl.class
+com\xxx\dao\RoleDao.class
+com\xxx\service\impl\MemberServiceIpl.class
+com\xxx\dao\MemberDao.class
+com\xxx\dao\UserDao.class
+com\xxx\service\impl\CheckItemServiceImpl.class
+com\xxx\dao\SetmealDao.class
+com\xxx\service\impl\CheckGroupServiceImpl.class
+com\xxx\service\impl\OrderSettingServiceImpl.class
+com\xxx\dao\CheckItemDao.class

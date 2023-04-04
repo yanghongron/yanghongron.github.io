@@ -1,0 +1,8 @@
+com\xxx\service\MemberService.class
+com\xxx\service\OrderService.class
+com\xxx\service\ReportService.class
+com\xxx\service\OrderSettingService.class
+com\xxx\service\SetmealService.class
+com\xxx\service\UserService.class
+com\xxx\service\CheckItemService.class
+com\xxx\service\CheckGroupService.class

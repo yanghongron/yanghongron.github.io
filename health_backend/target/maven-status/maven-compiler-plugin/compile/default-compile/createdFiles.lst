@@ -1,0 +1,8 @@
+com\xxx\service\SpringSecurityUserService.class
+com\xxx\controller\MemberController.class
+com\xxx\controller\ReportController.class
+com\xxx\controller\CheckItemController.class
+com\xxx\controller\SetmealController.class
+com\xxx\controller\OrderSettingController.class
+com\xxx\controller\CheckGroupController.class
+com\xxx\controller\UserController.class
